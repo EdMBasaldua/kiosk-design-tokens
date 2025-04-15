@@ -1,0 +1,203 @@
+{
+  "core": {},
+  "sweet-coffee": {
+    "radius": {
+      "none": 0,
+      "xs": 8,
+      "s": 16,
+      "m": 24,
+      "l": 32,
+      "full": 999
+    },
+    "stroke": {
+      "weight-narrow": 2.200000047683716,
+      "weight-bold": 3.200000047683716
+    },
+    "components": {
+      "button-l": "$radiusfull",
+      "button-m": "$radiusfull",
+      "button-s": "$radiusfull",
+      "card": "$radiusm",
+      "radius-input": "$radiusm",
+      "modal-padding": 88,
+      "modal-radius": 72,
+      "modal-spacing": 40,
+      "icon-button-shadows": true
+    }
+  },
+  "papi-churro": {
+    "radius": {
+      "none": 0,
+      "xs": 4,
+      "s": 8,
+      "m": 16,
+      "l": 24,
+      "full": 999
+    },
+    "stroke": {
+      "weight-narrow": 2.200000047683716,
+      "weight-bold": 3.200000047683716
+    },
+    "components": {
+      "button-l": "$radiusl",
+      "button-m": "$radiusm",
+      "button-s": "$radiuss",
+      "card": "$radiusm",
+      "radius-input": "$radiusm",
+      "modal-padding": 64,
+      "modal-radius": 48,
+      "modal-spacing": 32,
+      "icon-button-shadows": true
+    }
+  },
+  "sanducheria": {
+    "radius": {
+      "none": 0,
+      "xs": 4,
+      "s": 8,
+      "m": 16,
+      "l": 24,
+      "full": 999
+    },
+    "stroke": {
+      "weight-narrow": 2,
+      "weight-bold": 3
+    },
+    "components": {
+      "button-l": "$radiusm",
+      "button-m": "$radiuss",
+      "button-s": "$radiusxs",
+      "card": "$radiuss",
+      "radius-input": "$radiusm",
+      "modal-padding": 64,
+      "modal-radius": 48,
+      "modal-spacing": 32,
+      "icon-button-shadows": true
+    }
+  },
+  "ice-n-clouds": {
+    "radius": {
+      "none": 0,
+      "xs": 8,
+      "s": 16,
+      "m": 24,
+      "l": 32,
+      "full": 999
+    },
+    "stroke": {
+      "weight-narrow": 2.4000000953674316,
+      "weight-bold": 3.4000000953674316
+    },
+    "components": {
+      "button-l": "$radiusfull",
+      "button-m": "$radiusfull",
+      "button-s": "$radiusfull",
+      "card": "$radiusm",
+      "radius-input": "$radiusm",
+      "modal-padding": 88,
+      "modal-radius": 72,
+      "modal-spacing": 48,
+      "icon-button-shadows": true
+    }
+  },
+  "mama-shawarma": {
+    "radius": {
+      "none": 0,
+      "xs": 4,
+      "s": 8,
+      "m": 12,
+      "l": 16,
+      "full": 999
+    },
+    "stroke": {
+      "weight-narrow": 2.200000047683716,
+      "weight-bold": 3.4000000953674316
+    },
+    "components": {
+      "button-l": "$radiusl",
+      "button-m": "$radiusm",
+      "button-s": "$radiuss",
+      "card": "$radiuss",
+      "radius-input": "$radiusm",
+      "modal-padding": 64,
+      "modal-radius": 48,
+      "modal-spacing": 32,
+      "icon-button-shadows": true
+    }
+  },
+  "duke-of-buns": {
+    "radius": {
+      "none": 0,
+      "xs": 4,
+      "s": 8,
+      "m": 12,
+      "l": 16,
+      "full": 999
+    },
+    "stroke": {
+      "weight-narrow": 2.4000000953674316,
+      "weight-bold": 3.4000000953674316
+    },
+    "components": {
+      "button-l": "$radiusm",
+      "button-m": "$radiuss",
+      "button-s": "$radiusxs",
+      "card": "$radiusxs",
+      "radius-input": "$radiuss",
+      "modal-padding": 64,
+      "modal-radius": 48,
+      "modal-spacing": 32,
+      "icon-button-shadows": true
+    }
+  },
+  "robatatata-dark": {
+    "radius": {
+      "none": 0,
+      "xs": 8,
+      "s": 16,
+      "m": 24,
+      "l": 32,
+      "full": 999
+    },
+    "stroke": {
+      "weight-narrow": 2,
+      "weight-bold": 3
+    },
+    "components": {
+      "button-l": "$radiusm",
+      "button-m": "$radiuss",
+      "button-s": "$radiusxs",
+      "card": "$radiusm",
+      "radius-input": "$radiusl",
+      "modal-padding": 64,
+      "modal-radius": 88,
+      "modal-spacing": 32,
+      "icon-button-shadows": false
+    }
+  },
+  "robatata-light": {
+    "radius": {
+      "none": 0,
+      "xs": 8,
+      "s": 16,
+      "m": 24,
+      "l": 32,
+      "full": 999
+    },
+    "stroke": {
+      "weight-narrow": 2.200000047683716,
+      "weight-bold": 3.200000047683716
+    },
+    "components": {
+      "button-l": "$radiusm",
+      "button-m": "$radiuss",
+      "button-s": "$radiusxs",
+      "card": "$radiusm",
+      "radius-input": "$radiusl",
+      "modal-padding": 64,
+      "modal-radius": 88,
+      "modal-spacing": 32,
+      "icon-button-shadows": true
+    }
+  }
+}

@@ -1,0 +1,1163 @@
+{
+  "core": {},
+  "sweet-coffee": {
+    "display-xl": {
+      "font-family": "$font-familybasemedium--sweet-coffee",
+      "font-weight": "Medium",
+      "font-size-default": 120,
+      "line-height-default": 160
+    },
+    "display-l": {
+      "font-family": "$font-familybasemedium--sweet-coffee",
+      "font-weight": "Medium",
+      "font-size-default": 104,
+      "line-height-default": 160
+    },
+    "display-l-brand": {
+      "font-family": "$font-familybrand--sweet-coffee",
+      "font-weight": "Bold",
+      "font-size-default": 80,
+      "line-height-default": 108
+    },
+    "display-m-brand": {
+      "font-family": "$font-familybrand--sweet-coffee",
+      "font-weight": "Bold",
+      "font-size-default": 56,
+      "line-height-default": 76
+    },
+    "display-m": {
+      "font-family": "$font-familybasesemibold--sweet-coffee",
+      "font-weight": "Bold",
+      "font-size-default": 56,
+      "line-height-default": 76
+    },
+    "display-s-brand": {
+      "font-family": "$font-familybrand--sweet-coffee",
+      "font-weight": "Bold",
+      "font-size-default": 40,
+      "line-height-default": 54
+    },
+    "title-xl": {
+      "font-family": "$font-familybasesemibold--sweet-coffee",
+      "font-weight": "Semibold",
+      "font-size-default": 64,
+      "line-height-default": 90,
+      "letter-spacing": 0.5
+    },
+    "title-l": {
+      "font-family": "$font-familybasesemibold--sweet-coffee",
+      "font-weight": "Semibold",
+      "font-size-default": 48,
+      "line-height-default": 48,
+      "letter-spacing": 0.5
+    },
+    "body-l": {
+      "font-family": "$font-familybasemedium--sweet-coffee",
+      "font-weight": "Medium",
+      "font-size-default": 40,
+      "line-height-default": 60,
+      "letter-spacing": 0.5
+    },
+    "body-m": {
+      "font-family": "$font-familybasemedium--sweet-coffee",
+      "font-weight": "Medium",
+      "font-size-default": 32,
+      "line-height-default": 48,
+      "letter-spacing": 0.5
+    },
+    "body-m-strong": {
+      "font-family": "$font-familybasesemibold--sweet-coffee",
+      "font-weight": "Semibold",
+      "font-size-default": 32,
+      "line-height-default": 48,
+      "letter-spacing": 0.5
+    },
+    "body-s": {
+      "font-family": "$font-familybasemedium--sweet-coffee",
+      "font-weight": "Medium",
+      "font-size-default": 26,
+      "line-height-default": 40,
+      "letter-spacing": 0.5
+    },
+    "label-xl": {
+      "font-family": "$font-familybasemedium--sweet-coffee",
+      "font-weight": "Bold",
+      "font-size-default": 40,
+      "line-height-default": 40,
+      "letter-spacing": 0.5
+    },
+    "label-l": {
+      "font-family": "$font-familybasemedium--sweet-coffee",
+      "font-weight": "Medium",
+      "font-size-default": 32,
+      "line-height-default": 32,
+      "letter-spacing": 0.5
+    },
+    "label-m-strong": {
+      "font-size-default": "$font-size325--core",
+      "letter-spacing": 0.6000000238418579
+    },
+    "label-m": {
+      "font-family": "$font-familybasesemibold--sweet-coffee",
+      "font-weight": "Medium",
+      "font-size-default": 26,
+      "line-height-default": 26,
+      "letter-spacing": 0.10000000149011612
+    },
+    "label-s": {
+      "font-family": "$font-familybasemedium--sweet-coffee",
+      "font-weight": "Medium",
+      "font-size-default": 22,
+      "line-height-default": 30,
+      "letter-spacing": 0.5
+    },
+    "display-s": {
+      "font-family": "$font-familybasesemibold--sweet-coffee",
+      "font-weight": "Bold",
+      "font-size-default": 40,
+      "line-height-default": 54
+    },
+    "label-xs": {
+      "font-family": "$font-familybasesemibold--sweet-coffee",
+      "font-weight": "Semibold",
+      "font-size-default": 18,
+      "line-height-default": 24,
+      "letter-spacing": 0.10000000149011612
+    },
+    "display-s-extended": {
+      "font-family": "$font-familybasesemibold--sweet-coffee",
+      "font-weight": "Bold",
+      "font-size-default": 44,
+      "line-height-default": 44
+    },
+    "body-xs": {
+      "font-family": "$font-familybasemedium--sweet-coffee",
+      "font-weight": "Medium",
+      "font-size-default": 22,
+      "line-height-default": 36,
+      "letter-spacing": 0.5
+    },
+    "body-xxs": {
+      "font-family": "$font-familybasemedium--sweet-coffee",
+      "font-weight": "Medium",
+      "font-size-default": 18,
+      "line-height-default": 28,
+      "letter-spacing": 0.5
+    }
+  },
+  "papi-churro": {
+    "display-xl": {
+      "font-family": "$font-familybasemedium--sweet-coffee",
+      "font-weight": "Medium",
+      "font-size-default": 120,
+      "line-height-default": 160
+    },
+    "display-l": {
+      "font-family": "$font-familybasemedium--sweet-coffee",
+      "font-weight": "Medium",
+      "font-size-default": 104,
+      "line-height-default": 160
+    },
+    "display-l-brand": {
+      "font-family": "$font-familybrand--sweet-coffee",
+      "font-weight": "Bold",
+      "font-size-default": 80,
+      "line-height-default": 108
+    },
+    "display-m-brand": {
+      "font-family": "$font-familybrand--sweet-coffee",
+      "font-weight": "Bold",
+      "font-size-default": 56,
+      "line-height-default": 76
+    },
+    "display-m": {
+      "font-family": "$font-familybasesemibold--sweet-coffee",
+      "font-weight": "ExtraBold",
+      "font-size-default": 56,
+      "line-height-default": 76
+    },
+    "display-s-brand": {
+      "font-family": "$font-familybrand--sweet-coffee",
+      "font-weight": "Bold",
+      "font-size-default": 40,
+      "line-height-default": 54
+    },
+    "title-xl": {
+      "font-family": "$font-familybasesemibold--sweet-coffee",
+      "font-weight": "Regular",
+      "font-size-default": 64,
+      "line-height-default": 90,
+      "letter-spacing": 0.5
+    },
+    "title-l": {
+      "font-family": "$font-familybasesemibold--sweet-coffee",
+      "font-weight": "Regular",
+      "font-size-default": 48,
+      "line-height-default": 56,
+      "letter-spacing": 0.5
+    },
+    "body-l": {
+      "font-family": "$font-familybasemedium--sweet-coffee",
+      "font-weight": "Regular",
+      "font-size-default": 40,
+      "line-height-default": 60,
+      "letter-spacing": 0.5
+    },
+    "body-m": {
+      "font-family": "$font-familybasemedium--sweet-coffee",
+      "font-weight": "Regular",
+      "font-size-default": 32,
+      "line-height-default": 48,
+      "letter-spacing": 0.5
+    },
+    "body-m-strong": {
+      "font-family": "$font-familybasesemibold--sweet-coffee",
+      "font-weight": "Bold",
+      "font-size-default": 32,
+      "line-height-default": 48,
+      "letter-spacing": 0.5
+    },
+    "body-s": {
+      "font-family": "$font-familybasemedium--sweet-coffee",
+      "font-weight": "Regular",
+      "font-size-default": 26,
+      "line-height-default": 40,
+      "letter-spacing": 0.5
+    },
+    "label-xl": {
+      "font-family": "$font-familybasemedium--sweet-coffee",
+      "font-weight": "Bold",
+      "font-size-default": 40,
+      "line-height-default": 40,
+      "letter-spacing": 0.5
+    },
+    "label-l": {
+      "font-family": "$font-familybasemedium--sweet-coffee",
+      "font-weight": "Medium",
+      "font-size-default": 32,
+      "line-height-default": 32,
+      "letter-spacing": 0.5
+    },
+    "label-m-strong": {
+      "font-size-default": "$font-size325--core",
+      "letter-spacing": 0.6000000238418579
+    },
+    "label-m": {
+      "font-family": "$font-familybasesemibold--sweet-coffee",
+      "font-weight": "Bold",
+      "font-size-default": 26,
+      "line-height-default": 26,
+      "letter-spacing": 0.10000000149011612
+    },
+    "label-s": {
+      "font-family": "$font-familybasemedium--sweet-coffee",
+      "font-weight": "Bold",
+      "font-size-default": 22,
+      "line-height-default": 30,
+      "letter-spacing": 0.5
+    },
+    "display-s": {
+      "font-family": "$font-familybasesemibold--sweet-coffee",
+      "font-weight": "Bold",
+      "font-size-default": 40,
+      "line-height-default": 54
+    },
+    "label-xs": {
+      "font-family": "$font-familybasemedium--sweet-coffee",
+      "font-weight": "Bold",
+      "font-size-default": 18,
+      "line-height-default": 24,
+      "letter-spacing": 0.10000000149011612
+    },
+    "display-s-extended": {
+      "font-family": "$font-familybasesemibold--sweet-coffee",
+      "font-weight": "Bold",
+      "font-size-default": 44,
+      "line-height-default": 44
+    },
+    "body-xs": {
+      "font-family": "$font-familybasemedium--sweet-coffee",
+      "font-weight": "Regular",
+      "font-size-default": 22,
+      "line-height-default": 36,
+      "letter-spacing": 0.5
+    },
+    "body-xxs": {
+      "font-family": "$font-familybasemedium--sweet-coffee",
+      "font-weight": "Regular",
+      "font-size-default": 18,
+      "line-height-default": 28,
+      "letter-spacing": 0.5
+    }
+  },
+  "sanducheria": {
+    "display-xl": {
+      "font-family": "$font-familybasemedium--sweet-coffee",
+      "font-weight": "Medium",
+      "font-size-default": 120,
+      "line-height-default": 160
+    },
+    "display-l": {
+      "font-family": "$font-familybasemedium--sweet-coffee",
+      "font-weight": "Medium",
+      "font-size-default": 104,
+      "line-height-default": 160
+    },
+    "display-l-brand": {
+      "font-family": "$font-familybrand--sweet-coffee",
+      "font-weight": "Bold",
+      "font-size-default": 80,
+      "line-height-default": 108
+    },
+    "display-m-brand": {
+      "font-family": "$font-familybrand--sweet-coffee",
+      "font-weight": "Semibold",
+      "font-size-default": 56,
+      "line-height-default": 76
+    },
+    "display-m": {
+      "font-family": "$font-familybasesemibold--sweet-coffee",
+      "font-weight": "ExtraBold",
+      "font-size-default": 56,
+      "line-height-default": 76
+    },
+    "display-s-brand": {
+      "font-family": "$font-familybrand--sweet-coffee",
+      "font-weight": "Bold",
+      "font-size-default": 40,
+      "line-height-default": 54
+    },
+    "title-xl": {
+      "font-family": "$font-familybasesemibold--sweet-coffee",
+      "font-weight": "Regular",
+      "font-size-default": 64,
+      "line-height-default": 90,
+      "letter-spacing": 0.5
+    },
+    "title-l": {
+      "font-family": "$font-familybasesemibold--sweet-coffee",
+      "font-weight": "Regular",
+      "font-size-default": 48,
+      "line-height-default": 56,
+      "letter-spacing": 0.5
+    },
+    "body-l": {
+      "font-family": "$font-familybasemedium--sweet-coffee",
+      "font-weight": "Regular",
+      "font-size-default": 40,
+      "line-height-default": 60,
+      "letter-spacing": 0.5
+    },
+    "body-m": {
+      "font-family": "$font-familybasemedium--sweet-coffee",
+      "font-weight": "Regular",
+      "font-size-default": 32,
+      "line-height-default": 48,
+      "letter-spacing": 0.5
+    },
+    "body-m-strong": {
+      "font-family": "$font-familybasesemibold--sweet-coffee",
+      "font-weight": "Bold",
+      "font-size-default": 32,
+      "line-height-default": 48,
+      "letter-spacing": 0.5
+    },
+    "body-s": {
+      "font-family": "$font-familybasemedium--sweet-coffee",
+      "font-weight": "Regular",
+      "font-size-default": 26,
+      "line-height-default": 40,
+      "letter-spacing": 0.5
+    },
+    "label-xl": {
+      "font-family": "$font-familybasemedium--sweet-coffee",
+      "font-weight": "Bold",
+      "font-size-default": 40,
+      "line-height-default": 40,
+      "letter-spacing": 0.5
+    },
+    "label-l": {
+      "font-family": "$font-familybasemedium--sweet-coffee",
+      "font-weight": "Medium",
+      "font-size-default": 32,
+      "line-height-default": 32,
+      "letter-spacing": 0.5
+    },
+    "label-m-strong": {
+      "font-size-default": "$font-size325--core",
+      "letter-spacing": 0.6000000238418579
+    },
+    "label-m": {
+      "font-family": "$font-familybasesemibold--sweet-coffee",
+      "font-weight": "Bold",
+      "font-size-default": 26,
+      "line-height-default": 26,
+      "letter-spacing": 0.10000000149011612
+    },
+    "label-s": {
+      "font-family": "$font-familybasemedium--sweet-coffee",
+      "font-weight": "Bold",
+      "font-size-default": 22,
+      "line-height-default": 30,
+      "letter-spacing": 0.5
+    },
+    "display-s": {
+      "font-family": "$font-familybasesemibold--sweet-coffee",
+      "font-weight": "Bold",
+      "font-size-default": 40,
+      "line-height-default": 54
+    },
+    "label-xs": {
+      "font-family": "$font-familybasemedium--sweet-coffee",
+      "font-weight": "Bold",
+      "font-size-default": 18,
+      "line-height-default": 24,
+      "letter-spacing": 0.10000000149011612
+    },
+    "display-s-extended": {
+      "font-family": "$font-familybasesemibold--sweet-coffee",
+      "font-weight": "Bold",
+      "font-size-default": 44,
+      "line-height-default": 44
+    },
+    "body-xs": {
+      "font-family": "$font-familybasemedium--sweet-coffee",
+      "font-weight": "Regular",
+      "font-size-default": 22,
+      "line-height-default": 36,
+      "letter-spacing": 0.5
+    },
+    "body-xxs": {
+      "font-family": "$font-familybasemedium--sweet-coffee",
+      "font-weight": "Regular",
+      "font-size-default": 18,
+      "line-height-default": 28,
+      "letter-spacing": 0.5
+    }
+  },
+  "ice-n-clouds": {
+    "display-xl": {
+      "font-family": "$font-familybasemedium--sweet-coffee",
+      "font-weight": "Medium",
+      "font-size-default": 120,
+      "line-height-default": 160
+    },
+    "display-l": {
+      "font-family": "$font-familybasemedium--sweet-coffee",
+      "font-weight": "Medium",
+      "font-size-default": 104,
+      "line-height-default": 160
+    },
+    "display-l-brand": {
+      "font-family": "$font-familybrand--sweet-coffee",
+      "font-weight": "Bold",
+      "font-size-default": 80,
+      "line-height-default": 108
+    },
+    "display-m-brand": {
+      "font-family": "$font-familybrand--sweet-coffee",
+      "font-weight": "Semibold",
+      "font-size-default": 56,
+      "line-height-default": 76
+    },
+    "display-m": {
+      "font-family": "$font-familybasesemibold--sweet-coffee",
+      "font-weight": "ExtraBold",
+      "font-size-default": 56,
+      "line-height-default": 76
+    },
+    "display-s-brand": {
+      "font-family": "$font-familybrand--sweet-coffee",
+      "font-weight": "Bold",
+      "font-size-default": 40,
+      "line-height-default": 54
+    },
+    "title-xl": {
+      "font-family": "$font-familybasesemibold--sweet-coffee",
+      "font-weight": "Regular",
+      "font-size-default": 64,
+      "line-height-default": 90,
+      "letter-spacing": 0.5
+    },
+    "title-l": {
+      "font-family": "$font-familybasesemibold--sweet-coffee",
+      "font-weight": "Regular",
+      "font-size-default": 48,
+      "line-height-default": 56,
+      "letter-spacing": 0.5
+    },
+    "body-l": {
+      "font-family": "$font-familybasemedium--sweet-coffee",
+      "font-weight": "Regular",
+      "font-size-default": 40,
+      "line-height-default": 60,
+      "letter-spacing": 0.5
+    },
+    "body-m": {
+      "font-family": "$font-familybasemedium--sweet-coffee",
+      "font-weight": "Regular",
+      "font-size-default": 32,
+      "line-height-default": 48,
+      "letter-spacing": 0.5
+    },
+    "body-m-strong": {
+      "font-family": "$font-familybasesemibold--sweet-coffee",
+      "font-weight": "Bold",
+      "font-size-default": 32,
+      "line-height-default": 48,
+      "letter-spacing": 0.5
+    },
+    "body-s": {
+      "font-family": "$font-familybasemedium--sweet-coffee",
+      "font-weight": "Regular",
+      "font-size-default": 26,
+      "line-height-default": 40,
+      "letter-spacing": 0.5
+    },
+    "label-xl": {
+      "font-family": "$font-familybasemedium--sweet-coffee",
+      "font-weight": "Bold",
+      "font-size-default": 40,
+      "line-height-default": 40,
+      "letter-spacing": 0.5
+    },
+    "label-l": {
+      "font-family": "$font-familybasemedium--sweet-coffee",
+      "font-weight": "Medium",
+      "font-size-default": 32,
+      "line-height-default": 32,
+      "letter-spacing": 0.5
+    },
+    "label-m-strong": {
+      "font-size-default": "$font-size325--core",
+      "letter-spacing": 0.6000000238418579
+    },
+    "label-m": {
+      "font-family": "$font-familybasesemibold--sweet-coffee",
+      "font-weight": "Bold",
+      "font-size-default": 26,
+      "line-height-default": 26,
+      "letter-spacing": 0.10000000149011612
+    },
+    "label-s": {
+      "font-family": "$font-familybasemedium--sweet-coffee",
+      "font-weight": "Bold",
+      "font-size-default": 22,
+      "line-height-default": 30,
+      "letter-spacing": 0.5
+    },
+    "display-s": {
+      "font-family": "$font-familybasesemibold--sweet-coffee",
+      "font-weight": "Bold",
+      "font-size-default": 40,
+      "line-height-default": 54
+    },
+    "label-xs": {
+      "font-family": "$font-familybasemedium--sweet-coffee",
+      "font-weight": "Bold",
+      "font-size-default": 18,
+      "line-height-default": 24,
+      "letter-spacing": 0.10000000149011612
+    },
+    "display-s-extended": {
+      "font-family": "$font-familybasesemibold--sweet-coffee",
+      "font-weight": "Bold",
+      "font-size-default": 44,
+      "line-height-default": 44
+    },
+    "body-xs": {
+      "font-family": "$font-familybasemedium--sweet-coffee",
+      "font-weight": "Regular",
+      "font-size-default": 22,
+      "line-height-default": 36,
+      "letter-spacing": 0.5
+    },
+    "body-xxs": {
+      "font-family": "$font-familybasemedium--sweet-coffee",
+      "font-weight": "Regular",
+      "font-size-default": 18,
+      "line-height-default": 28,
+      "letter-spacing": 0.5
+    }
+  },
+  "mama-shawarma": {
+    "display-xl": {
+      "font-family": "$font-familybasemedium--sweet-coffee",
+      "font-weight": "Medium",
+      "font-size-default": 120,
+      "line-height-default": 160
+    },
+    "display-l": {
+      "font-family": "$font-familybasemedium--sweet-coffee",
+      "font-weight": "Medium",
+      "font-size-default": 104,
+      "line-height-default": 160
+    },
+    "display-l-brand": {
+      "font-family": "$font-familybrand--sweet-coffee",
+      "font-weight": "Bold",
+      "font-size-default": 80,
+      "line-height-default": 108
+    },
+    "display-m-brand": {
+      "font-family": "$font-familybrand--sweet-coffee",
+      "font-weight": "Medium",
+      "font-size-default": 56,
+      "line-height-default": 76
+    },
+    "display-m": {
+      "font-family": "$font-familybasesemibold--sweet-coffee",
+      "font-weight": "ExtraBold",
+      "font-size-default": 56,
+      "line-height-default": 76
+    },
+    "display-s-brand": {
+      "font-family": "$font-familybrand--sweet-coffee",
+      "font-weight": "Regular",
+      "font-size-default": 40,
+      "line-height-default": 54
+    },
+    "title-xl": {
+      "font-family": "$font-familybasesemibold--sweet-coffee",
+      "font-weight": "Regular",
+      "font-size-default": 64,
+      "line-height-default": 90,
+      "letter-spacing": 0.5
+    },
+    "title-l": {
+      "font-family": "$font-familybasesemibold--sweet-coffee",
+      "font-weight": "Regular",
+      "font-size-default": 48,
+      "line-height-default": 56,
+      "letter-spacing": 0.5
+    },
+    "body-l": {
+      "font-family": "$font-familybasemedium--sweet-coffee",
+      "font-weight": "Regular",
+      "font-size-default": 40,
+      "line-height-default": 60,
+      "letter-spacing": 0.5
+    },
+    "body-m": {
+      "font-family": "$font-familybasemedium--sweet-coffee",
+      "font-weight": "Regular",
+      "font-size-default": 32,
+      "line-height-default": 48,
+      "letter-spacing": 0.5
+    },
+    "body-m-strong": {
+      "font-family": "$font-familybasesemibold--sweet-coffee",
+      "font-weight": "Bold",
+      "font-size-default": 32,
+      "line-height-default": 48,
+      "letter-spacing": 0.5
+    },
+    "body-s": {
+      "font-family": "$font-familybasemedium--sweet-coffee",
+      "font-weight": "Regular",
+      "font-size-default": 26,
+      "line-height-default": 40,
+      "letter-spacing": 0.5
+    },
+    "label-xl": {
+      "font-family": "$font-familybasemedium--sweet-coffee",
+      "font-weight": "Bold",
+      "font-size-default": 40,
+      "line-height-default": 40,
+      "letter-spacing": 0.5
+    },
+    "label-l": {
+      "font-family": "$font-familybasemedium--sweet-coffee",
+      "font-weight": "Medium",
+      "font-size-default": 32,
+      "line-height-default": 32,
+      "letter-spacing": 0.5
+    },
+    "label-m-strong": {
+      "font-size-default": "$font-size325--core",
+      "letter-spacing": 0.6000000238418579
+    },
+    "label-m": {
+      "font-family": "$font-familybasesemibold--sweet-coffee",
+      "font-weight": "Bold",
+      "font-size-default": 26,
+      "line-height-default": 26,
+      "letter-spacing": 0.10000000149011612
+    },
+    "label-s": {
+      "font-family": "$font-familybasemedium--sweet-coffee",
+      "font-weight": "Bold",
+      "font-size-default": 22,
+      "line-height-default": 30,
+      "letter-spacing": 0.5
+    },
+    "display-s": {
+      "font-family": "$font-familybasesemibold--sweet-coffee",
+      "font-weight": "Bold",
+      "font-size-default": 40,
+      "line-height-default": 54
+    },
+    "label-xs": {
+      "font-family": "$font-familybasemedium--sweet-coffee",
+      "font-weight": "Bold",
+      "font-size-default": 18,
+      "line-height-default": 24,
+      "letter-spacing": 0.10000000149011612
+    },
+    "display-s-extended": {
+      "font-family": "$font-familybasesemibold--sweet-coffee",
+      "font-weight": "Bold",
+      "font-size-default": 44,
+      "line-height-default": 44
+    },
+    "body-xs": {
+      "font-family": "$font-familybasemedium--sweet-coffee",
+      "font-weight": "Regular",
+      "font-size-default": 22,
+      "line-height-default": 36,
+      "letter-spacing": 0.5
+    },
+    "body-xxs": {
+      "font-family": "$font-familybasemedium--sweet-coffee",
+      "font-weight": "Regular",
+      "font-size-default": 18,
+      "line-height-default": 28,
+      "letter-spacing": 0.5
+    }
+  },
+  "duke-of-buns": {
+    "display-xl": {
+      "font-family": "$font-familybasemedium--sweet-coffee",
+      "font-weight": "Medium",
+      "font-size-default": 120,
+      "line-height-default": 160
+    },
+    "display-l": {
+      "font-family": "$font-familybasemedium--sweet-coffee",
+      "font-weight": "Medium",
+      "font-size-default": 104,
+      "line-height-default": 160
+    },
+    "display-l-brand": {
+      "font-family": "$font-familybrand--sweet-coffee",
+      "font-weight": "Regular",
+      "font-size-default": 80,
+      "line-height-default": 108
+    },
+    "display-m-brand": {
+      "font-family": "$font-familybrand--sweet-coffee",
+      "font-weight": "ExtraBold Condensed",
+      "font-size-default": 56,
+      "line-height-default": 76
+    },
+    "display-m": {
+      "font-family": "$font-familybasesemibold--sweet-coffee",
+      "font-weight": "ExtraBold",
+      "font-size-default": 56,
+      "line-height-default": 76
+    },
+    "display-s-brand": {
+      "font-family": "$font-familybrand--sweet-coffee",
+      "font-weight": "Bold",
+      "font-size-default": 40,
+      "line-height-default": 54
+    },
+    "title-xl": {
+      "font-family": "$font-familybasesemibold--sweet-coffee",
+      "font-weight": "Regular",
+      "font-size-default": 64,
+      "line-height-default": 90,
+      "letter-spacing": 0.5
+    },
+    "title-l": {
+      "font-family": "$font-familybasesemibold--sweet-coffee",
+      "font-weight": "Regular",
+      "font-size-default": 48,
+      "line-height-default": 56,
+      "letter-spacing": 0.5
+    },
+    "body-l": {
+      "font-family": "$font-familybasemedium--sweet-coffee",
+      "font-weight": "Regular",
+      "font-size-default": 40,
+      "line-height-default": 60,
+      "letter-spacing": 0.5
+    },
+    "body-m": {
+      "font-family": "$font-familybasemedium--sweet-coffee",
+      "font-weight": "Regular",
+      "font-size-default": 32,
+      "line-height-default": 48,
+      "letter-spacing": 0.5
+    },
+    "body-m-strong": {
+      "font-family": "$font-familybasesemibold--sweet-coffee",
+      "font-weight": "Bold",
+      "font-size-default": 32,
+      "line-height-default": 48,
+      "letter-spacing": 0.5
+    },
+    "body-s": {
+      "font-family": "$font-familybasemedium--sweet-coffee",
+      "font-weight": "Regular",
+      "font-size-default": 26,
+      "line-height-default": 40,
+      "letter-spacing": 0.5
+    },
+    "label-xl": {
+      "font-family": "$font-familybasemedium--sweet-coffee",
+      "font-weight": "Bold",
+      "font-size-default": 40,
+      "line-height-default": 40,
+      "letter-spacing": 0.5
+    },
+    "label-l": {
+      "font-family": "$font-familybasemedium--sweet-coffee",
+      "font-weight": "Medium",
+      "font-size-default": 32,
+      "line-height-default": 32,
+      "letter-spacing": 0.5
+    },
+    "label-m-strong": {
+      "font-size-default": "$font-size325--core",
+      "letter-spacing": 0.6000000238418579
+    },
+    "label-m": {
+      "font-family": "$font-familybasesemibold--sweet-coffee",
+      "font-weight": "Bold",
+      "font-size-default": 26,
+      "line-height-default": 26,
+      "letter-spacing": 0.10000000149011612
+    },
+    "label-s": {
+      "font-family": "$font-familybasemedium--sweet-coffee",
+      "font-weight": "Bold",
+      "font-size-default": 22,
+      "line-height-default": 30,
+      "letter-spacing": 0.5
+    },
+    "display-s": {
+      "font-family": "$font-familybasesemibold--sweet-coffee",
+      "font-weight": "Bold",
+      "font-size-default": 40,
+      "line-height-default": 54
+    },
+    "label-xs": {
+      "font-family": "$font-familybasemedium--sweet-coffee",
+      "font-weight": "Bold",
+      "font-size-default": 18,
+      "line-height-default": 24,
+      "letter-spacing": 0.10000000149011612
+    },
+    "display-s-extended": {
+      "font-family": "$font-familybasesemibold--sweet-coffee",
+      "font-weight": "Bold",
+      "font-size-default": 44,
+      "line-height-default": 44
+    },
+    "body-xs": {
+      "font-family": "$font-familybasemedium--sweet-coffee",
+      "font-weight": "Regular",
+      "font-size-default": 22,
+      "line-height-default": 36,
+      "letter-spacing": 0.5
+    },
+    "body-xxs": {
+      "font-family": "$font-familybasemedium--sweet-coffee",
+      "font-weight": "Regular",
+      "font-size-default": 18,
+      "line-height-default": 28,
+      "letter-spacing": 0.5
+    }
+  },
+  "robatatata-dark": {
+    "display-xl": {
+      "font-family": "$font-familybasemedium--sweet-coffee",
+      "font-weight": "Medium",
+      "font-size-default": 120,
+      "line-height-default": 160
+    },
+    "display-l": {
+      "font-family": "$font-familybasemedium--sweet-coffee",
+      "font-weight": "Medium",
+      "font-size-default": 104,
+      "line-height-default": 160
+    },
+    "display-l-brand": {
+      "font-family": "$font-familybrand--sweet-coffee",
+      "font-weight": "Bold Narrow",
+      "font-size-default": 80,
+      "line-height-default": 108
+    },
+    "display-m-brand": {
+      "font-family": "$font-familybrand--sweet-coffee",
+      "font-weight": "Bold Narrow",
+      "font-size-default": 64,
+      "line-height-default": 76
+    },
+    "display-m": {
+      "font-family": "$font-familybasesemibold--sweet-coffee",
+      "font-weight": "ExtraBold",
+      "font-size-default": 56,
+      "line-height-default": 76
+    },
+    "display-s-brand": {
+      "font-family": "$font-familybrand--sweet-coffee",
+      "font-weight": "Bold Narrow",
+      "font-size-default": 48,
+      "line-height-default": 54
+    },
+    "title-xl": {
+      "font-family": "$font-familybasesemibold--sweet-coffee",
+      "font-weight": "Regular",
+      "font-size-default": 64,
+      "line-height-default": 90,
+      "letter-spacing": 0.5
+    },
+    "title-l": {
+      "font-family": "$font-familybasesemibold--sweet-coffee",
+      "font-weight": "Regular",
+      "font-size-default": 48,
+      "line-height-default": 56,
+      "letter-spacing": 0.5
+    },
+    "body-l": {
+      "font-family": "$font-familybasemedium--sweet-coffee",
+      "font-weight": "Regular",
+      "font-size-default": 40,
+      "line-height-default": 60,
+      "letter-spacing": 0.5
+    },
+    "body-m": {
+      "font-family": "$font-familybasemedium--sweet-coffee",
+      "font-weight": "Regular",
+      "font-size-default": 32,
+      "line-height-default": 48,
+      "letter-spacing": 0.5
+    },
+    "body-m-strong": {
+      "font-family": "$font-familybasesemibold--sweet-coffee",
+      "font-weight": "Bold",
+      "font-size-default": 32,
+      "line-height-default": 48,
+      "letter-spacing": 0.5
+    },
+    "body-s": {
+      "font-family": "$font-familybasemedium--sweet-coffee",
+      "font-weight": "Regular",
+      "font-size-default": 26,
+      "line-height-default": 40,
+      "letter-spacing": 0.5
+    },
+    "label-xl": {
+      "font-family": "$font-familybasemedium--sweet-coffee",
+      "font-weight": "Bold",
+      "font-size-default": 40,
+      "line-height-default": 40,
+      "letter-spacing": 0.5
+    },
+    "label-l": {
+      "font-family": "$font-familybasemedium--sweet-coffee",
+      "font-weight": "Medium",
+      "font-size-default": 32,
+      "line-height-default": 32,
+      "letter-spacing": 0.5
+    },
+    "label-m-strong": {
+      "font-size-default": "$font-size325--core",
+      "letter-spacing": 0.6000000238418579
+    },
+    "label-m": {
+      "font-family": "$font-familybasesemibold--sweet-coffee",
+      "font-weight": "Bold",
+      "font-size-default": 26,
+      "line-height-default": 26,
+      "letter-spacing": 0.10000000149011612
+    },
+    "label-s": {
+      "font-family": "$font-familybasemedium--sweet-coffee",
+      "font-weight": "Bold",
+      "font-size-default": 22,
+      "line-height-default": 30,
+      "letter-spacing": 0.5
+    },
+    "display-s": {
+      "font-family": "$font-familybasesemibold--sweet-coffee",
+      "font-weight": "Bold",
+      "font-size-default": 40,
+      "line-height-default": 54
+    },
+    "label-xs": {
+      "font-family": "$font-familybasemedium--sweet-coffee",
+      "font-weight": "Bold",
+      "font-size-default": 18,
+      "line-height-default": 24,
+      "letter-spacing": 0.10000000149011612
+    },
+    "display-s-extended": {
+      "font-family": "$font-familybasesemibold--sweet-coffee",
+      "font-weight": "Bold",
+      "font-size-default": 44,
+      "line-height-default": 44
+    },
+    "body-xs": {
+      "font-family": "$font-familybasemedium--sweet-coffee",
+      "font-weight": "Regular",
+      "font-size-default": 22,
+      "line-height-default": 36,
+      "letter-spacing": 0.5
+    },
+    "body-xxs": {
+      "font-family": "$font-familybasemedium--sweet-coffee",
+      "font-weight": "Regular",
+      "font-size-default": 18,
+      "line-height-default": 28,
+      "letter-spacing": 0.5
+    }
+  },
+  "robatata-light": {
+    "display-xl": {
+      "font-family": "$font-familybasemedium--sweet-coffee",
+      "font-weight": "Medium",
+      "font-size-default": 120,
+      "line-height-default": 160
+    },
+    "display-l": {
+      "font-family": "$font-familybasemedium--sweet-coffee",
+      "font-weight": "Medium",
+      "font-size-default": 104,
+      "line-height-default": 160
+    },
+    "display-l-brand": {
+      "font-family": "$font-familybrand--sweet-coffee",
+      "font-weight": "Bold Narrow",
+      "font-size-default": 80,
+      "line-height-default": 108
+    },
+    "display-m-brand": {
+      "font-family": "$font-familybrand--sweet-coffee",
+      "font-weight": "Bold Narrow",
+      "font-size-default": 64,
+      "line-height-default": 76
+    },
+    "display-m": {
+      "font-family": "$font-familybasesemibold--sweet-coffee",
+      "font-weight": "ExtraBold",
+      "font-size-default": 56,
+      "line-height-default": 76
+    },
+    "display-s-brand": {
+      "font-family": "$font-familybrand--sweet-coffee",
+      "font-weight": "Bold Narrow",
+      "font-size-default": 48,
+      "line-height-default": 54
+    },
+    "title-xl": {
+      "font-family": "$font-familybasesemibold--sweet-coffee",
+      "font-weight": "Regular",
+      "font-size-default": 64,
+      "line-height-default": 90,
+      "letter-spacing": 0.5
+    },
+    "title-l": {
+      "font-family": "$font-familybasesemibold--sweet-coffee",
+      "font-weight": "Regular",
+      "font-size-default": 48,
+      "line-height-default": 56,
+      "letter-spacing": 0.5
+    },
+    "body-l": {
+      "font-family": "$font-familybasemedium--sweet-coffee",
+      "font-weight": "Regular",
+      "font-size-default": 40,
+      "line-height-default": 60,
+      "letter-spacing": 0.5
+    },
+    "body-m": {
+      "font-family": "$font-familybasemedium--sweet-coffee",
+      "font-weight": "Regular",
+      "font-size-default": 32,
+      "line-height-default": 48,
+      "letter-spacing": 0.5
+    },
+    "body-m-strong": {
+      "font-family": "$font-familybasesemibold--sweet-coffee",
+      "font-weight": "Bold",
+      "font-size-default": 32,
+      "line-height-default": 48,
+      "letter-spacing": 0.5
+    },
+    "body-s": {
+      "font-family": "$font-familybasemedium--sweet-coffee",
+      "font-weight": "Regular",
+      "font-size-default": 26,
+      "line-height-default": 40,
+      "letter-spacing": 0.5
+    },
+    "label-xl": {
+      "font-family": "$font-familybasemedium--sweet-coffee",
+      "font-weight": "Bold",
+      "font-size-default": 40,
+      "line-height-default": 40,
+      "letter-spacing": 0.5
+    },
+    "label-l": {
+      "font-family": "$font-familybasemedium--sweet-coffee",
+      "font-weight": "Medium",
+      "font-size-default": 32,
+      "line-height-default": 32,
+      "letter-spacing": 0.5
+    },
+    "label-m-strong": {
+      "font-size-default": "$font-size325--core",
+      "letter-spacing": 0.6000000238418579
+    },
+    "label-m": {
+      "font-family": "$font-familybasesemibold--sweet-coffee",
+      "font-weight": "Bold",
+      "font-size-default": 26,
+      "line-height-default": 32,
+      "letter-spacing": 0.10000000149011612
+    },
+    "label-s": {
+      "font-family": "$font-familybasemedium--sweet-coffee",
+      "font-weight": "Bold",
+      "font-size-default": 22,
+      "line-height-default": 30,
+      "letter-spacing": 0.5
+    },
+    "display-s": {
+      "font-family": "$font-familybasesemibold--sweet-coffee",
+      "font-weight": "Bold",
+      "font-size-default": 40,
+      "line-height-default": 54
+    },
+    "label-xs": {
+      "font-family": "$font-familybasemedium--sweet-coffee",
+      "font-weight": "Bold",
+      "font-size-default": 18,
+      "line-height-default": 24,
+      "letter-spacing": 0.10000000149011612
+    },
+    "display-s-extended": {
+      "font-family": "$font-familybasesemibold--sweet-coffee",
+      "font-weight": "Bold",
+      "font-size-default": 44,
+      "line-height-default": 44
+    },
+    "body-xs": {
+      "font-family": "$font-familybasemedium--sweet-coffee",
+      "font-weight": "Regular",
+      "font-size-default": 22,
+      "line-height-default": 36,
+      "letter-spacing": 0.5
+    },
+    "body-xxs": {
+      "font-family": "$font-familybasemedium--sweet-coffee",
+      "font-weight": "Regular",
+      "font-size-default": 18,
+      "line-height-default": 28,
+      "letter-spacing": 0.5
+    }
+  }
+}

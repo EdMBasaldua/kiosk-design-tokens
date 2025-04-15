@@ -1,0 +1,12 @@
+# Archivos temporales o sensibles
+.env
+figma-data/
+/tools
+node_modules/
+internalREADME.txt
+
+# Ignorar los archivos generados como .log
+*.log
+
+# Ignorar archivos generados por TypeScript
+*.tsbuildinfo

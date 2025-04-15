@@ -10,3 +10,5 @@ internalREADME.txt
 
 # Ignorar archivos generados por TypeScript
 *.tsbuildinfo
+
+.DS_Store

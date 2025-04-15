@@ -30,23 +30,23 @@ $core-colortextprimary: #000000;
 Contiene tokens tipográficos como `font-size`, `line-height`, `font-weight`, etc.
 
 ```json
-{
-  "core": {
-    "heading-large": {
-      "fontsize": 24,
-      "lineheight": 32,
-      "fontweight": 700
+{"display-l": {
+      "font-family": "$font-familybasemedium--sweet-coffee",
+      "font-weight": "Medium",
+      "font-size-default": 104,
+      "line-height-default": 160
     }
-  }
 }
 ```
 
 ```scss
-$core-heading-large-fontsize: 24;
-$core-heading-large-lineheight: 32;
-$core-heading-large-fontweight: 700;
+$sweet-coffee-display-l-font-family: $font-familybasemedium--sweet-coffee;
+$sweet-coffee-display-l-font-weight: Medium;
+$sweet-coffee-display-l-font-size-default: 104;
+$sweet-coffee-display-l-line-height-default: 160;
 ```
 
+*NOTA: Si el letter spacing es cero, no aparece en el estilo de texto.
 ---
 
 ### 📏 _foundation-dimensions.json / _foundation-dimensions.scss
@@ -94,7 +94,7 @@ console.log(tokens.core.colorbackgroundprimary);
 
 ## 🛠️ ¿Cómo actualizar los tokens?
 
-Ejecuta el siguiente comando:
+Pide al administrador del sistema de diseño que ejecute el siguiente comando:
 
 ```bash
 npm run update-tokens
@@ -102,31 +102,6 @@ npm run update-tokens
 
 Esto descargará los tokens desde la API de Figma y generará nuevamente los JSON y SCSS.
 
----
-
-## 📦 ¿Se puede usar como módulo de NPM?
-Sí. Para publicar este repositorio como módulo en NPM:
-
-1. Asegúrate de tener un `package.json` válido.
-2. Autentícate en NPM:
-
-```bash
-npm login
-```
-
-3. Publica:
-
-```bash
-npm publish --access public
-```
-
-**Recomendación:** Si tus tokens van a ser consumidos por varios proyectos, vale la pena publicarlos en NPM para que puedan instalarse fácilmente con:
-
-```bash
-npm install design-system-tokens
-```
-
----
 
 ## 🧾 Licencia
 Este repositorio está disponible bajo la licencia MIT.

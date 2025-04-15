@@ -1,46 +1,140 @@
-# Design System Tokens
+# Kiosk Design System Tokens
 
-Este repositorio contiene los tokens de diseño para nuestro sistema modular. Los tokens se dividen en tres categorías principales: **Colores**, **Tipografía** y **Dimensiones de Fundación**. Además, están organizados en diferentes **modos (THEMES)**, lo que permite la personalización según el contexto o tema de la interfaz.
+Este repositorio contiene los tokens de diseño extraídos desde Figma, disponibles en formatos JSON y SCSS.
+Es la base para maquetar las interfaces de los kioscos de TPC
 
-## Archivos de Tokens
+## 📁 Archivos Generados
 
-Los tokens se encuentran en el directorio `/tokens` y se dividen en los siguientes archivos:
+Los tokens están organizados por tipo y modo (tema). Cada archivo contiene los tokens por modo (como `core`, `light`, `dark`, etc.).
 
-- **_colors.json**: Contiene los valores de colores (por colección y tema).
-- **_typography.json**: Contiene los valores de tipografía (por colección y tema).
-- **_foundation-dimensions.json**: Contiene las dimensiones de fondo (Radio, Componentes y Stroke, por colección y tema).
-
-### Usar los Tokens en JSON
-
-Los archivos JSON contienen los valores de cada token, organizados por colecciones y por tema (modo). Ejemplo de un archivo de color:
+### 🟡 _colors.json / _colors.scss
+Contiene los tokens de color.
 
 ```json
 {
-  "Theme-Mama Shawarma": {
-    "light": {
-      "color-backgroundpositiveweak": "#A1C4FD",
-      "color-backgroundneutral": "#E0E0E0"
-    },
-    "dark": {
-      "color-backgroundpositiveweak": "#3F6B9C",
-      "color-backgroundneutral": "#4A4A4A"
+  "core": {
+    "colorbackgroundprimary": "#ffffff",
+    "colortextprimary": "#000000"
+  }
+}
+```
+
+```scss
+$core-colorbackgroundprimary: #ffffff;
+$core-colortextprimary: #000000;
+```
+
+---
+
+### 🔠 _typography.json / _typography.scss
+Contiene tokens tipográficos como `font-size`, `line-height`, `font-weight`, etc.
+
+```json
+{
+  "core": {
+    "heading-large": {
+      "fontsize": 24,
+      "lineheight": 32,
+      "fontweight": 700
     }
   }
 }
+```
 
-Cada token está organizado por modo (como light o dark), y dentro de cada modo, los tokens de color tienen un nombre basado en la convención de nombres de Figma. Puedes usar estos tokens en tu aplicación de la siguiente forma:
+```scss
+$core-heading-large-fontsize: 24;
+$core-heading-large-lineheight: 32;
+$core-heading-large-fontweight: 700;
+```
 
-import tokens from 'path-to-tokens/_colors.json';
-console.log(tokens['Theme-Mama Shawarma']['light']['color-backgroundpositiveweak']);
+---
 
-Usar los Tokens en SCSS
-Los tokens también están disponibles como variables SCSS, que puedes importar en tu hoja de estilo. Ejemplo de un archivo SCSS generado a partir de los tokens:
-$Theme-Mama-Shawarma--light--color-backgroundpositiveweak: #A1C4FD;
-$Theme-Mama-Shawarma--dark--color-backgroundpositiveweak: #3F6B9C;
+### 📏 _foundation-dimensions.json / _foundation-dimensions.scss
+Incluye radius, stroke y componentes.
 
-body {
-  background-color: $Theme-Mama-Shawarma--light--color-backgroundpositiveweak;
+```json
+{
+  "core": {
+    "radius": {
+      "full": 9999,
+      "medium": 8
+    }
+  }
 }
+```
 
-Para usar los tokens en SCSS, importa el archivo SCSS generado en tu proyecto:
-@import 'path-to-tokens/_colors';
+```scss
+$core-radius-full: 9999;
+$core-radius-medium: 8;
+```
+
+---
+
+## 🚀 ¿Cómo usar los tokens?
+
+### 📦 Como archivos SCSS
+1. Copia los archivos `.scss` a tu proyecto.
+2. Importa el modo que quieras usar:
+
+```scss
+@import 'tokens/_colors.scss';
+@import 'tokens/_typography.scss';
+@import 'tokens/_foundation-dimensions.scss';
+```
+
+### 🧩 Como archivos JSON
+1. Puedes consumirlos en cualquier entorno JS/TS y procesarlos como desees:
+
+```ts
+import tokens from './tokens/_colors.json';
+console.log(tokens.core.colorbackgroundprimary);
+```
+
+---
+
+## 🛠️ ¿Cómo actualizar los tokens?
+
+Ejecuta el siguiente comando:
+
+```bash
+npm run update-tokens
+```
+
+Esto descargará los tokens desde la API de Figma y generará nuevamente los JSON y SCSS.
+
+---
+
+## 📦 ¿Se puede usar como módulo de NPM?
+Sí. Para publicar este repositorio como módulo en NPM:
+
+1. Asegúrate de tener un `package.json` válido.
+2. Autentícate en NPM:
+
+```bash
+npm login
+```
+
+3. Publica:
+
+```bash
+npm publish --access public
+```
+
+**Recomendación:** Si tus tokens van a ser consumidos por varios proyectos, vale la pena publicarlos en NPM para que puedan instalarse fácilmente con:
+
+```bash
+npm install design-system-tokens
+```
+
+---
+
+## 🧾 Licencia
+Este repositorio está disponible bajo la licencia MIT.
+
+---
+
+¿Dudas? Abre un issue o contáctame.
+
+---
+
+✨ ¡Feliz diseño y desarrollo!
